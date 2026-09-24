@@ -1,16 +1,16 @@
-<h1 align="center">Olá, sou o Dostoiévski 👋</h1>
+<h1 align="center">🥤 Olá, sou o Bolognesi 👋 🥤</h1>
 
 <p align="center">
 Desenvolvedor júnior em São Paulo, construindo sites e apps para pequenos negócios e clientes independentes.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=script33dt-glitch&label=Visualizações&color=blueviolet&style=flat" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=script33dt-glitch&label=Visualizações&color=8A2BE2&style=flat" alt="visitor badge" />
 </p>
 
 ---
 
-### 🔭 Agora
+### 🔭 Agora 🥤
 
 - Construindo sites sob demanda (landing pages, e-commerce com checkout via WhatsApp)
 - Desenvolvendo o **Nexus**, um assistente de estudos com IA estilo Jarvis, do zero em VS Code
@@ -21,19 +21,19 @@ Desenvolvedor júnior em São Paulo, construindo sites e apps para pequenos neg�
 ### 🛠️ Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-6A0DAD?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-9B30FF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5D3FD3?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-7B2FF7?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-2E0854?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1A0033?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Projetos
+### 🚀 Projetos 🥤
 
 | Projeto | Descrição |
 |---|---|
@@ -48,13 +48,13 @@ Desenvolvedor júnior em São Paulo, construindo sites e apps para pequenos neg�
 
 ### 🎓 Certificações
 
-![Lógica de Programação](https://img.shields.io/badge/SENAI-Lógica_de_Programação-blue?style=flat-square)
-![Ética na IA](https://img.shields.io/badge/SENAI-Ética_na_IA-blue?style=flat-square)
-![Excel Básico](https://img.shields.io/badge/SENAI-Excel_Básico-blue?style=flat-square)
+![Lógica de Programação](https://img.shields.io/badge/SENAI-Lógica_de_Programação-8A2BE2?style=flat-square)
+![Ética na IA](https://img.shields.io/badge/SENAI-Ética_na_IA-8A2BE2?style=flat-square)
+![Excel Básico](https://img.shields.io/badge/SENAI-Excel_Básico-8A2BE2?style=flat-square)
 
 ---
 
-### 📫 Contato
+### 📫 Contato 🥤
 
 <p align="left">
   <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
