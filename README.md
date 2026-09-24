@@ -63,4 +63,5 @@
   <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/bolognesi_ap"><img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Discord-sanger1997-5D3FD3?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://linktr.ee/arthurpereirabolognesi"><img src="https://img.shields.io/badge/Linktree-6A0DAD?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
