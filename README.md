@@ -61,4 +61,6 @@
 <p align="left">
   <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/bolognesi_ap"><img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Discord-sanger1997-5D3FD3?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
