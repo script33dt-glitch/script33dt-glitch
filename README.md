@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://static2.klipy.com/ii/263d75c9c6d04df878152f91dbffb873/eb/87/0OjeluQU.gif" alt="Coding GIF" width="40%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B266FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+j%C3%BAnior+em+S%C3%A3o+Paulo;Construindo+sites+e+apps+para+pequenos+neg%C3%B3cios" alt="typing-svg" />
 </p>
 
