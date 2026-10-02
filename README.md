@@ -39,19 +39,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### <span style="color:#B266FF">🚀 Projetos</span>
-
-| Projeto | Descrição |
-|---|---|
-| **Vestida de TY** | E-commerce boutique com checkout via WhatsApp — HTML/CSS/JS, deploy GitHub + Vercel |
-| **Mimos Cestas** | Loja de presentes e flores — HTML/CSS/JS, deploy GitHub + Vercel |
-| **Vortex Store** | E-commerce de tecnologia/áudio — case principal em vendas de sites |
-| **06 Zero Meia Espeto** | Site de apresentação para restaurante, em ajuste com cliente |
-| **Confeitaria da Juliana** | Site estático entregue para cliente confeiteira |
-| **Nexus** | Assistente de estudos com IA, estilo Jarvis |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ### <span style="color:#B266FF">🎓 Certificações</span>
 
 ![Lógica de Programação](https://img.shields.io/badge/SENAI-Lógica_de_Programação-8A2BE2?style=flat-square)
